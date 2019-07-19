@@ -1,0 +1,18 @@
+.bggray{
+	background-color: #E5E7E9;
+}
+.login{
+	margin: 60px auto;
+}
+.kanan{
+	border-radius: 1px;
+	background-color: #FFF;
+}
+.kiri{
+	border-radius: 1px;
+	color: #FFF;
+	background-color: #2E86C1;
+}
+.logo{
+	width: 80px;
+}
