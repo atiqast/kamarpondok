@@ -1,18 +1,51 @@
-.bggray{
-	background-color: #E5E7E9;
+.card-sub{
+	width: 300px;
+	background-color: rgb(255, 255, 255);
+	padding: 10px;
+	margin: auto;
+	border-radius: 10px;
+	box-shadow: 0 .25rem .75rem rgba(0, 0, 0, 0.589);
 }
-.login{
-	margin: 60px auto;
+.cards{
+	margin-top: 50px;
 }
-.kanan{
-	border-radius: 1px;
-	background-color: #FFF;
+.shadow{
+	box-shadow: 0 .25rem .75rem rgba(0, 0, 0, 0.527);
 }
-.kiri{
-	border-radius: 1px;
+.tengah{
+	text-align: center;
+}
+.bg-navbar{
+	background-color: rgb(59, 197, 197);
+}
+.color-navbar{
 	color: #FFF;
-	background-color: #2E86C1;
 }
-.logo{
-	width: 80px;
+.form-top{
+	margin-top: 60px;
+	max-width: 700px;
+}
+.form-group{
+	margin-top: 10px;
+}
+.topp{
+	padding-top: 10px;
+}
+.block-content{
+	/* background-color: rgb(59, 197, 197); */
+	height: 30px;
+	width: 50x;
+	border-radius: 10px;
+	text-align: center;
+	font-weight: bold;
+}
+.list-data1{
+	background-color: rgb(98, 221, 211);
+}
+.list-data1{
+	color: rgb(71, 71, 71);
+}
+.keterangan{
+	padding-top: 10px;
+	font-size: 9pt;
 }

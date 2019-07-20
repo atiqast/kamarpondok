@@ -9,9 +9,9 @@
 </head>
 <body class="bg-info">
 <div class="cards col-12">
-	<div class="cards bg-light col-lg-3 shadow">
-	<form method="post" action="" class="col-12">
-		<legend>LOGIN</legend>
+	<div class="card-sub shadow">
+	<form method="post" action="" class="">
+		<legend class="tengah">LOGIN</legend>
 		<div class="form-group">
 			<label for="user">Username</label> 
 				<input type="text" name="username" class="form-control" autofocus="" placeholder="Username" id="user">
@@ -45,16 +45,15 @@
 				}
 				?>
 
-	</div>
-	<div class="form-group">
-		<input type="submit" value="Login" class="btn btn-block btn-info">
-	</div>
-</form>
+		</div>
+		<div class="form-group">
+			<input type="submit" value="Login" class="btn btn-block btn-info">
+		</div>
+	</form>
 </div>
 </div>
 </div>
   </div>
-
 
 <footer class="text-center">
         <strong>Santri</strong>Developer| Design by Team

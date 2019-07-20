@@ -10,11 +10,14 @@
 			</div>
 
 			<div class="form-group">
-				<label class="control-label col-sm-6">Daya tampung</label>
-				<div class="col-sm-6">
-					<input class="form-control" type="text" name="dayatampung">
-				</div>
-			</div>
+              <label class="control-label col-sm-6">Daya Tampung:</label>
+              <div class="col-sm-6">
+			  <input id="kt-ada" name="dayatampung" type="radio" value="1" class="custom-control-input" required>
+	            	<label class="custom-control-label" for="kt-ada">Satu</label>
+	            	<input id="kt-kosong" name="dayatampung" type="radio" value="2" class="custom-control-input" required>
+	            	<label class="custom-control-label" for="kt-kosong">Dua</label>
+                </div>
+              </div>
 
 			<div class="form-group">
 	          	<label class="control-label col-sm-6">Karpet:</label>
