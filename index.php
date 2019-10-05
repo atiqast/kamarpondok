@@ -1,6 +1,6 @@
 <?php include "header.php"; ?>
 <div class="jumbotron text-center">
-	<h3>Management Kamar Pondok</h3>
+	<h1>Management Kamar Pondok</h1>
 	<h2><strong>KAMAR PONDOK</strong></h2>
 </div>
 
